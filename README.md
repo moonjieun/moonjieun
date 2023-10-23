@@ -15,7 +15,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
 
 # Contact📞
-<a href="[https://velog.io/@colorful-stars](https://velog.io/@moonjieun)" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+<a href="https://velog.io/@moonjieun" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer)
