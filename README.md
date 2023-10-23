@@ -1,6 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Jieun's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250&width=300)
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmoonjieun&count_bg=%23F9B9DD&title_bg=%23F99E9E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <div align="center">
   
 # Skill 🔨
