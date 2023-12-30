@@ -1,6 +1,3 @@
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Jieun's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250&width=300)
-
 <div align="center">
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmoonjieun&count_bg=%23F9B9DD&title_bg=%23F99E9E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
@@ -19,8 +16,6 @@
 <a href="https://jieunmoon0724.notion.site/jieunmoon0724/UI-UX-17a2a318ca414adfacefab35293263d6" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 
 </div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer)
 <!--
 **moonjieun/moonjieun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
